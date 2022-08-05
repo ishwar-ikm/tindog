@@ -173,3 +173,10 @@ h3 {
     text-align: left;
   }
 }
+
+
+@media (max-width: 1028px){
+  .container{
+    width: 50%;
+  }
+}
